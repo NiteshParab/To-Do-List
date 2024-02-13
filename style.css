@@ -77,3 +77,9 @@ body{
     height:25px;
     font-size:1.2rem;
 }
+.strike{
+    text-decoration: line-through;
+}
+.hidden{
+    display:none;
+}
