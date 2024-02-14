@@ -72,6 +72,10 @@ body{
     width:15px;
     height:15px;
 }
+.clear i{
+    width:100%;
+    height:100%;
+}
 .box p{
     width:90%;
     height:25px;
