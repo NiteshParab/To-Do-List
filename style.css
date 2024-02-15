@@ -61,26 +61,18 @@ body{
     border:1px solid black;
     border-radius:5px;
 }
-.box{
-    display:flex;
-    align-items: center;
-    gap:10px;
-    height:30px;
-    padding:10px;
-}
-.box input{
-    width:15px;
-    height:15px;
-}
-.clear i{
+
+ul li{
     width:100%;
-    height:100%;
-}
-.box p{
-    width:90%;
-    height:25px;
+    list-style: none;
     font-size:1.2rem;
+    width:100%;
+    margin:5px;
+    padding:5px;
+    position:relative;
+    
 }
+
 .strike{
     text-decoration: line-through;
 }
